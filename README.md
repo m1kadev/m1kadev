@@ -5,3 +5,5 @@ i'm mika (stylised as m1ka, also m1kadev). i'm your favourite dutch persons favo
 i also love [foxes](https://en.wikipedia.org/wiki/Fox)!!
 
 you canNOT visit my website over at https://m1kadev.nl because it's still a work in progress but i'm working on that
+
+[my signing key](https://raw.githubusercontent.com/m1kadev/m1kadev/refs/heads/main/mika.asc)
